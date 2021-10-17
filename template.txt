@@ -1,0 +1,8 @@
+name=Vanni
+pronouns=She/Her
+image_url=
+sprite_emoji=
+str_base=1
+def_base=-2
+mag_base=3
+agi_base=0
